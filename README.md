@@ -1,4 +1,5 @@
 # Taller_3_Deep_Learning
+Sitios de Interes:
 
 - [Challence Kaggle (Enunciado ejercicio 2)](https://www.kaggle.com/c/taller3ann-usm)
 - [Ejercicio 1_2 Captioning problem](https://www.kaggle.com/ericzepeda/master-effect-imgtocaption)
